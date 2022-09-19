@@ -1,0 +1,22 @@
+.academic{
+   
+    padding: $separation-margin 6% 2.5% 6%;
+
+    &__ul{
+        list-style: disc;
+    }
+
+    &__element{
+        padding: 10px 0px;
+        font-size: $size-text;
+        line-height: normal;
+    }
+
+     &__title{
+        margin-bottom: 3%;
+        font-size: $size-subtitle;
+        font-weight: 600;
+        color: $color-subtitle;
+        text-transform: capitalize;
+     }
+}

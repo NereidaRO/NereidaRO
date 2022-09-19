@@ -1,0 +1,28 @@
+.header{
+   
+    padding: $separation-margin;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: $color-header;
+
+    &__ul{
+        display: flex;
+        
+    }
+
+    &__element{
+        max-width: 150px;
+        padding: 5px;
+        font-size: $size-text;
+        text-align: center;
+        align-self: center;
+    }
+
+    &__link{
+        color: $color-nav;
+        text-transform: uppercase;
+        font-weight: 600;
+    }
+}

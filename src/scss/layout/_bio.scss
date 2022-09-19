@@ -1,0 +1,53 @@
+.bio{
+    padding: $separation-margin;
+    
+
+    &__presentation{
+        min-height: 30vh;
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    &__text{
+        margin-bottom: $separation-margin;
+        font-size: $size-text;
+        color: $color-text;
+        line-height: normal;
+    }
+
+    &__name{
+        font-size: $size-title;
+        font-weight: 600;
+        text-align: center;
+        color: $color-title
+    }
+
+    &__job{
+        font-size: $size-subtitle;
+        text-align: center;
+        text-transform: capitalize;
+        color: $color-title;
+    }
+
+    &__img{
+        width: 250px;
+        height: 250px;
+        border-radius: 5px;
+        margin: $separation-margin 0;
+        align-self: center;
+    }
+}
+
+@media all and (min-width:768px){
+    .bio{
+        &__presentation{
+            flex-direction: row;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        &__wrapper{
+            margin-left: $separation-margin;
+        }
+    }
+}

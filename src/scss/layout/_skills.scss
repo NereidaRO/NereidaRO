@@ -1,0 +1,56 @@
+//móvil = column, tablet y desktop = row
+
+.skills{
+    
+    padding: $separation-margin;
+    display: flex;
+    flex-direction: column;
+    background-color: $color-mark;
+
+    &__title{
+        margin-bottom: 3%;
+        font-size: $size-subtitle;
+        font-weight: 600;
+        color: $color-subtitle;
+    }
+
+    &__text{
+        font-size: $size-text;
+        color: $color-text;
+        line-height: normal;
+
+        &--st{
+            margin-bottom: 3%;
+            line-height: normal;
+        }
+    }
+}
+
+@media all and (min-width:768px){
+    .skills{
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+
+        &__soft{
+            align-self: flex-start;
+            padding-left: 1.5%;
+        }
+
+        &__hard{
+            align-self: flex-start;
+            padding-right: 1.5%;
+        }
+
+        &__text{
+            max-width: 550px;
+            align-self: center;
+        }
+
+        &__text--st{
+            margin-bottom: 0;
+            max-width: 550px;
+            align-self: center;
+        }
+    }
+}
