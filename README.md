@@ -2,10 +2,7 @@
 
 I am Nereida Rodriguez Orenes, an Spanish Junior Front-End Developer. I have just ended my initial formation, which was the Adalab Web Programmig Bootcamp.
 
-You can reach me in:
-
-- [LinkedIn] (https://linkedin.com/in/nereida-rodríguez-orenes)
-- [Twitter] (https://twitter.com/Nereida_RO_)
+You can reach me in LinkedIn (https://linkedin.com/in/nereida-rodríguez-orenes)
 
 ---
 
