@@ -5,7 +5,7 @@ I am Nereida Rodriguez Orenes, an Spanish Junior Front-End Developer. I have jus
 You can reach me in:
 
 - [LinkedIn] (https://linkedin.com/in/nereida-rodríguez-orenes)
-- [Twitter] (https://github.com/NereidaRO)
+- [Twitter] (https://twitter.com/Nereida_RO_)
 
 ---
 
