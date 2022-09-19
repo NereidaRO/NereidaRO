@@ -20,6 +20,10 @@ I can work with Vanilla **JavaScript ES6**, **ReactJS** - and **HTML5**, **CSS3*
 
 I have been studying with the **Agile Philosophy** and the **Scrum FrameWork**. I can **communicate assertively** with people, because of my face-to-face job experience. Moreover, I am a very **organised** person.
 
-### 4. Next Steps
+### 4. Languages
+
+I am an Spanish native speaker, but I can speak English (level B2) and Valencian/Catalan (level B1) too.
+
+### 5. Next Steps
 
 I wish to get a job where I can be useful and I can keep developing my skills. I also want to improve my skills of NodeJS, Express and SQL.

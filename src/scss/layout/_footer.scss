@@ -26,7 +26,7 @@
     color: $color-header;
 }
 
-.fa-solid{
+.fa-arrow-up{
     position: fixed;
     bottom: 3%;
     left: 3.5%;
@@ -34,7 +34,7 @@
 
 
 @media all and (min-width:768px){
-    .fa-solid{
+    .fa-arrow-up{
         position: fixed;
         bottom: 7%;
         left: 3.5%;
