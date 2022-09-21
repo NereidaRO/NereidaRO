@@ -5,13 +5,20 @@
     padding: $separation-margin;
     display: flex;
     flex-direction: column;
-    background-color: $color-mark;
+    background: linear-gradient($color-mark, white);
 
     &__title{
         margin-bottom: 3%;
         font-size: $size-subtitle;
         font-weight: 600;
         color: $color-subtitle;
+
+        &--global{
+        margin-bottom: 3%;
+        font-size: $size-h2;
+        font-weight: 600;
+        color: $color-subtitle;
+        }
     }
 
     &__text{

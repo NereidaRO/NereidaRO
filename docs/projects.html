@@ -19,34 +19,92 @@
       href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap"
       rel="stylesheet"
     />
+    <link rel="stylesheet" href="./assets/css/main.css" />
   </head>
 
   <body>
-    <section class="projects" id="projects">
-      <h3 class="projects__title">Personal projects</h3>
-      <ul class="projects__ul">
-        <li class="projects__element">
-          <p class="projects__text">
-            This is my first personal project with ReactJS. It can recommend a
-            song based on the mood of the user. I was also trying to learn how
-            to do transitions.
-          </p>
-          <a class="link projects__link" href="#">Work in Progress</a>
-        </li>
-        <li class="projects__element">
-          <p class="projects__text">
-            This is my solution of an Adalab evaluation. It is an anime searcher
-            where the user can store their favorite series. It is done with
-            JavaScript. It is not responsive, it is optimized only for desktop.
-          </p>
-          <a
-            class="link projects__link"
-            href="http://beta.adalab.es/modulo-2-evaluacion-final-NereidaRO/"
-            target="_blank"
-            >Anime Searcher in Spanish</a
-          >
-        </li>
-      </ul>
-    </section>
+    <header class="header">
+      <nav class="header__nav">
+        <ul class="header__ul">
+          <li class="header__element">
+            <a class="link header__link" href="./index.html#bio">Bio</a>
+          </li>
+          <li class="header__element">
+            <a class="link header__link" href="./index.html#skills">Skills</a>
+          </li>
+          <li class="header__element">
+            <a class="link header__link" href="./index.html#academic">Education</a>
+          </li>
+          <li class="header__element">
+            <a class="link header__link" href="./projects.html" target="_blank"
+              >Projects</a
+            >
+          </li>
+          <li class="header__element">
+            <a class="link header__link" href="./contact.html" target="_blank"
+              >Contact</a
+            >
+          </li>
+        </ul>
+      </nav>
+
+    </header>
+    <main class="main">
+      <section class="projects" id="projects">
+        <h3 class="projects__title">Personal projects</h3>
+        <ul class="projects__ul">
+          <li class="projects__element">
+            <p class="projects__text">
+              This is my first personal project with ReactJS. It can recommend a
+              song based on the mood of the user. I was also trying to learn how
+              to do transitions.
+            </p>
+            <a class="link projects__link" href="#">Work in Progress</a>
+          </li>
+          <li class="projects__element">
+            <p class="projects__text">
+              This is my solution of an Adalab evaluation. It is an anime
+              searcher where the user can store their favorite series. It is
+              done with JavaScript. It is not responsive, it is optimized only
+              for desktop.
+            </p>
+            <a
+              class="link projects__link"
+              href="http://beta.adalab.es/modulo-2-evaluacion-final-NereidaRO/"
+              target="_blank"
+              >Anime Searcher in Spanish</a
+            >
+          </li>
+        </ul>
+      </section>
+    </main>
+    <footer class="footernoarrow" id="footer">
+      <div class="footer__wrapper">
+        <h3 class="footer__title">Contact</h3>
+        <nav class="footer__nav">
+          <ul class="footer__ul">
+            <li class="footer__element">
+              <i class="fa-brands fa-linkedin"></i>
+              <a
+                class="link footer__link"
+                href="https://www.linkedin.com/in/nereida-rodr%C3%ADguez-orenes-b20a09235/"
+                target="_blank"
+                >LinkedIn</a
+              >
+            </li>
+            <li class="footer__element">
+              <i class="fa-brands fa-github"></i>
+              <a
+                class="link footer__link"
+                href="https://github.com/NereidaRO"
+                target="_blank"
+                >GitHub</a
+              >
+            </li>
+          </ul>
+        </nav>
+      </div>
+
+    </footer>
   </body>
 </html>
