@@ -36,6 +36,10 @@
         margin: $separation-margin 0;
         align-self: center;
     }
+
+    &__strong{
+        font-weight: bold;
+    }
 }
 
 @media all and (min-width:768px){

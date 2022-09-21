@@ -18,11 +18,13 @@
         font-size: $size-text;
         color: $color-text;
         line-height: normal;
+        margin-bottom: 3%;
+        
+    }
 
-        &--st{
-            margin-bottom: 3%;
-            line-height: normal;
-        }
+    &__list{
+        list-style:circle;
+        padding-left: 3%;
     }
 }
 
@@ -34,6 +36,7 @@
 
         &__soft{
             align-self: flex-start;
+            padding-right: 1.5%;
             padding-left: 1.5%;
         }
 
@@ -44,18 +47,14 @@
 
         &__lan{
             align-self: flex-start;
-            padding-right: 1.5%;
+            
+            padding-left: 1.5%;
         }
 
         &__text{
             max-width: 550px;
             align-self: center;
-        }
-
-        &__text--st{
             margin-bottom: 0;
-            max-width: 550px;
-            align-self: center;
         }
     }
 }
