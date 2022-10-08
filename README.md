@@ -26,4 +26,4 @@ I am an Spanish native speaker, but I can speak English (level B2) and Valencian
 
 ### 5. Next Steps
 
-I wish to get a job where I can be useful and I can keep developing my skills. I also want to improve my skills of NodeJS, Express and SQL.
+I wish to get a job where I can be useful and I can keep developing my skills. I also want to improve my skills of NodeJS, Express and SQL and start learning a JavaScript framework (VUE or Angular).
