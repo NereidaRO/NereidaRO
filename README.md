@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I am Nereida Rodriguez Orenes, an Spanish Junior Front-End Developer. I have just ended my initial formation, which was the Adalab Web Programmig Bootcamp.
+I am Nereida Rodriguez Orenes, an Spanish Junior Front-End Developer.
 
-You can reach me in LinkedIn (https://www.linkedin.com/in/nereida-rodriguez-orenes/)
+You can reach me in LinkedIn (https://www.linkedin.com/in/nereida-rodriguez-orenes/).
 
 ---
 
@@ -10,11 +10,11 @@ You can reach me in LinkedIn (https://www.linkedin.com/in/nereida-rodriguez-oren
 
 I studied a Bachelor Degree in Biology at the University of Alicante but, when I tried to work as a biologist, I discovered that that was not my career. I have work as a private teacher, ONG partner recruiter, helper in a museum and intern in an agricultural investigation station.
 
-Some months later, I studied in Adalab. There, I discovered my true dream job, as a Developer.
+Some months later, I studied in Adalab. There, I discovered my true dream job, as a Developer. I have been working doing the layouts -Sass, jQuery functionalities- for shops running in PrestaShop and I am currently searching for a job.
 
 ### 2. Current Technologies :woman_technologist:
 
-I can work with Vanilla **JavaScript ES6**, **ReactJS** - and **HTML5**, **CSS3**, **Sass** and **Gulp**. I have learn basic uses of **NodeJS**, **Express** and **SQL**. Moreover, I am used to **Git** and I have an account in **Slack**.
+I can work with Vanilla **JavaScript ES6**, **ReactJS** - and **HTML5**, **CSS3**, **Sass** and **Gulp**. I have learn basic uses of **NodeJS**, **Express** and **SQL**. Moreover, I am used to **Git**.
 
 ### 3. Soft Skills :speaking_head:
 
@@ -26,4 +26,4 @@ I am an Spanish native speaker, but I can speak English (level B2) and Valencian
 
 ### 5. Next Steps :chart_with_upwards_trend:
 
-I wish to get a job where I can be useful and I can keep developing my skills. I am currently studying by my own with the OpenBootcamp full-stack path while I am searching for my first developer job.
+I wish to get a job where I can be useful and I can keep developing my skills. I am currently studying Appian and SQL by my own while I am searching for a job.
