@@ -1,29 +1,53 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Nereida Rodríguez Orenes 👋</h1>
 
-I am Nereida Rodriguez Orenes, a Junior Software Developer.
+<p align="center">
+  <strong>Junior Software Developer</strong><br>
+  React · TypeScript · Java · SQL
+</p>
 
-You can reach me in LinkedIn (https://www.linkedin.com/in/nereida-rodriguez-orenes/).
+<p align="center">
+  📍 Alicante, Spain · <a href="https://www.linkedin.com/in/nereida-rodriguez-orenes/">Connect on LinkedIn ↗</a>
+</p>
 
----
+I like working across the stack, from building a responsive interface to figuring out how the API and database should support it. I completed a Higher Technician Diploma in Multiplatform Application Development (GSFP DAM) and have worked in software teams at Soy.es, Foodeo and PLD Space. I have also learned Web Development with Adalab.
 
-### 1. My Story :open_book:
+💼 **Open to junior developer roles**
 
-When I was younger, I studied a Bachelor Degree in Biology at the University of Alicante while working in different jobs to sustain myself. Those include private teacher, NGO partner recruiter, helper in a museum and intern in an agricultural investigation station. But, when i tried to develop my career in the Biology field, I discovered that it was not my path.
+I'd like to join a team where I can contribute, learn from my colleagues, and grow as a developer. I'm looking for a company where I can build a career over time.
 
-Some months later, I studied in Adalab. There, I discovered my true dream job, as a Software Developer. My first job in the technology field made me realise that I needed to expand my knowledge, so I studied  a Superior Degree in Multiplatform Application Development (GSFP DAM). My internships at this point, were as a frontend in Foodeo (https://www.foodeo.es/), where I worked with VUE, Ionic, Angular, Trello and Github, and PLD Space (https://www.pldspace.com/), where I used React, TypeScript, Grafana, Jira and Bitbucket.
+## :woman_technologist: What I work with
 
-### 2. Current Technologies :woman_technologist:
+| Area | Technologies |
+| --- | --- |
+| **Web frontend** | React, TypeScript, JavaScript, HTML, CSS, Sass |
+| **Backend & data** | Java, Maven, REST APIs, SQL, MariaDB, PostgreSQL, Python |
+| **Mobile** | Kotlin, Android |
+| **Tools & workflows** | Git, GitHub, Bitbucket, Grafana, Scrum, generative AI |
 
-My main technologies are **Java**, **React** and **SQL** in relational databases. Moreover, I am used to use **Git** as control version, **Object-Oriented Programming** as paradigm and **Scrum** as project managing philosophy. I have also worked with **HTML5**, **CSS3**, **Sass** and **jQuery**. Finally, I have also learned basics of **Python**, **NodeJS**, **Kotlin**, **VUE**, **Angular** and **Ionic**.
+**Also worked with** · Django, Angular, Vue, Ionic, Docker.
 
-### 3. Soft Skills :speaking_head:
+**Currently learning** · Spring Boot for Java backend development and practical applications of AI in software development.
 
-I have been studying with the **Agile Philosophy** and the **Scrum FrameWork**. I can **communicate assertively** with people, because of my face-to-face job experience. Moreover, I am a very **organised** person.
+## 💻 Projects and experience
 
-### 4. Languages :earth_africa:
+### Fixora · Industrial maintenance software
 
-I am an Spanish native speaker, but I can speak English (level B2) and Valencian/Catalan (level B1) too.
+My team built a desktop app for reporting machine breakdowns and an Android app for technicians to track repairs. I focused on the backend, building the Java REST API that connects the Android app to MariaDB and uses JWT for authentication.
 
-### 5. Next Steps :chart_with_upwards_trend:
+[Explore the REST API](https://github.com/DAM-Nereida-Rodriguez-Orenes/API-REST-TYN-Solutions-PI) · [Explore the desktop app](https://github.com/DAM-Nereida-Rodriguez-Orenes/gestion-de-averias-pi-TYN-Solutions)
 
-I wish to get a job where I can keep developing my skills as a programmer. My dream is to become a fullstack developer but, currently, I am focused in the React Stack and front-end development.
+### Fullstack in practice
+
+- **PLD Space** · Worked with the Ground Software team on a Grafana I+D project using React and TypeScript. I also developed functionalities for the Flight Software team, using React, TypeScript, Python and Django.
+
+### Frontend in practice
+
+- **Soy.es** · Frontend development and responsive web layouts.
+- **Foodeo** · Worked on restaurant workflows in an Ionic and Angular app, including closing tables and handling tips.
+
+## 🌍 Languages
+
+- **Spanish** · Native
+- **English** · B2, used in professional settings
+- **Valencian/Catalan** · B1
+
